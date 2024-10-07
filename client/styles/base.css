@@ -12,14 +12,6 @@ body {
   background-color: #cccccc;
 }
 
-/*@font-face {
-    font-family: Gotham-Rounded;
-    src: url("./fonts/Gotham-Rounded-Light.ttf");
-}
-@font-face {
-    font-family: Gotham-Rounded-Book;
-    src: url("./fonts/Gotham-Rounded-Book.ttf");
-}*/
 .navbar { 
   width: 100%;
   background-color: #00294b;
@@ -50,7 +42,6 @@ body {
   font-size: 20px;
   font-weight: 500;
   margin-left: 25%;
-  /*font-family: Gotham-Rounded;*/
 }
 
 .navbarItemSelected h2 {
@@ -59,7 +50,6 @@ body {
   font-size: 20px;
   font-weight: 500;
   margin-left: 25%;
-  /*font-family: Gotham-Rounded;*/
 }
 
 .electrodeLogo {
